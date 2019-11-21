@@ -1,3 +1,5 @@
+Visit https://react-my-burger-a9022.firebaseapp.com/ to checkout the application
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
