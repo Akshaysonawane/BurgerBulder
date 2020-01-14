@@ -8,6 +8,8 @@ In the BurgerBuilder application we can create a burger dynamically by selecting
 After providing user details in checkout page we can place an order.
 In orders page we can see all the orders.
 
+* The project focuses on front-end and that is why for backend firebase has been used.
+
 To run a project in local:
 
 Pull the code from github and run npm install
